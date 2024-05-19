@@ -33,3 +33,4 @@ categories: jekyll update
 
 ## Resultado: Economia ou mudança residual: R$ 43.800,00
 
+[Economizando 5 minútos ou mais](https://www.linkedin.com/feed/update/urn:li:activity:7120866678652952576)
