@@ -4,46 +4,28 @@ title:  "Automatização"
 date:   2024-05-18 19:54:14 -0300
 categories: jekyll update
 ---
-# Marketing Digital Estratégico
+# Automatizações
 
-### Tiaplicada parte do princípio de que Marketing Digital de verdade é estratégico, isso fica mais evidente visto as mais de 100 ramificações de campanha possíveis listadas abaixo.
+* Automatização de processos digitais
+* Automatização de processos empresarias
 
-### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a performance e efetividade, fazendo com que o investimento não seja disperdiçado com um mal direcionamento.
 
-* Marketing de Funil
+#### Se um colaborador gasta metade do tempo de trabalho todos os dias fazendo as mesmas tarefas e operações de forma manual, suscetível a erro, causando fadiga profissional e isso pode ser reduzido a um clique automatizado, a empresa passa a poupar recurso financeiro, de tempo e humano com repetições.
 
-* Marketing de Aquisição
+#### Se houver 50 colaboradores em 12 meses de trabalho temos ao longo de um ano algo próximo de:
 
-* Marketing de Engajamento
+* Quantidade de colaboradores que realizam as mesmas operações 50
+* Salário base: R$ 2000
+* Custo salário com impostos e direitos: R$ 3500
+* Horas de trabalho por dia: 8
+* Horas de trabalho semanal 40
+* Horas de trabalho mensal 280
+* Custo por hora de trabalho 12,5
+* Valor destinado a folha de pagamento mensal de 50 colaboradores: R$ 175000
+* Valor destinado a folha de pagamento anual de 50 colaboradores: R$ 2100000
 
-* Marketing de Retenção
+#### Implementação de automatização de processos reduz 2 horas de rotina:
 
-* Marketing de Mídia
+## Formula: 2 X 50 X 12,5 X 30 X 12
 
-* Marketing de Email
-
-* Marketing de internacionalização
-
-* Marketing de Inteligência
-
-* Marketing de Branding
-
-* Marketing de Performance
-
-* Marketing de Social Mídia
-
-* Marketing de Necessidade
-
-* Marketing de Conversão
-
-* Marketing de Compartilhamento
-
-* Marketing de Seo
-
-* Marketing de Acessibilidade
-
-* Marketing de Comportamento
-
-* Marketing de Microserviço
-
-* Marketing de Gamificação
+## Resultado: Economia ou mudança residual: R$ 450000

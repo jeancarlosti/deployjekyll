@@ -4,46 +4,20 @@ title:  "Sites"
 date:   2024-05-18 19:54:14 -0300
 categories: jekyll update
 ---
-# Marketing Digital Estratégico
+# Desenvolvimento de Sites
 
-### Tiaplicada parte do princípio de que Marketing Digital de verdade é estratégico, isso fica mais evidente visto as mais de 100 ramificações de campanha possíveis listadas abaixo.
+#### O desenvolvimento da tiaplicada apresenta diferencial de foco em performance para isso o uso de ferramentas como :
 
-### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a performance e efetividade, fazendo com que o investimento não seja disperdiçado com um mal direcionamento.
+* Análise de requisitos bem feita
+* brienfing e deadline cumpridos a risca 
+* Produção de Design Programatical
+* Uso de Frameworks Web sob demanda
 
-* Marketing de Funil
+###### a seguir uma pequena explicação do que se trata **design programátical**:
 
-* Marketing de Aquisição
+##### Design programátical é um design de alta performance onde o foco é a programação e utilização do recurso computacional para criação, geração, padronização e movimento do design.
 
-* Marketing de Engajamento
+##### Possui alta viabilidade para lidar com responsividades e regras de negócio, ocupa muito menos espaço e e tem maior velocidade de execução.
 
-* Marketing de Retenção
+##### Jogos usam muito design programátical, contextos ou enredos onde ha um mundo onde o personagem se movimenta, geralmente tem um “ mundo “ sendo renderizado e não desenhado artisticamente em profundidade e técnica manual, em termos práticos, fases, níveis e labirintos infinitos.
 
-* Marketing de Mídia
-
-* Marketing de Email
-
-* Marketing de internacionalização
-
-* Marketing de Inteligência
-
-* Marketing de Branding
-
-* Marketing de Performance
-
-* Marketing de Social Mídia
-
-* Marketing de Necessidade
-
-* Marketing de Conversão
-
-* Marketing de Compartilhamento
-
-* Marketing de Seo
-
-* Marketing de Acessibilidade
-
-* Marketing de Comportamento
-
-* Marketing de Microserviço
-
-* Marketing de Gamificação

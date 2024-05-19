@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 # Marketing Digital Estratégico
 
-### Tiaplicada parte do princípio de que Marketing Digital de verdade é estratégico, isso fica mais evidente visto as mais de 100 ramificações de campanha possíveis listadas abaixo.
+#### Tiaplicada parte do princípio de que Marketing Digital de verdade é estratégico, isso fica mais evidente visto as mais de 100 ramificações de campanha possíveis listadas abaixo.
 
-### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a performance e efetividade, fazendo com que o investimento não seja disperdiçado com um mal direcionamento.
+#### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a performance e efetividade, fazendo com que o investimento não seja disperdiçado com um mal direcionamento.
 
 * Marketing de Funil
 

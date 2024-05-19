@@ -4,46 +4,43 @@ title:  "Consultoria"
 date:   2024-05-18 19:54:14 -0300
 categories: jekyll update
 ---
-# Marketing Digital Estratégico
+# Consultoria
 
-### Tiaplicada parte do princípio de que Marketing Digital de verdade é estratégico, isso fica mais evidente visto as mais de 100 ramificações de campanha possíveis listadas abaixo.
+* Desenvolvimento de Negócios e Estratégia 
 
-### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a performance e efetividade, fazendo com que o investimento não seja disperdiçado com um mal direcionamento.
+#### A consultoria e conhecimento de desenvolvimento de novos negócios consiste em aconselhamento e visão ampla das possibilidades diante do mercado em que o empreendimento se encontra, expandir negócios esta relacionado a saber o passo a passo de crescimento consciente e pautado em boa tomada de deciões aplicadas a momentos oportunos de certezas, segurança e saltos.
 
-* Marketing de Funil
+#### Acompanhar e aproveitar situações e momentos corretos de decisão bem como ter estratégia prévia diante das adversidades tornam o sucesso de uma empresa tangível.
 
-* Marketing de Aquisição
+#### Saber expandir negócios vêm de networking de soluções e amplitude setorial e profissional. A Business Inteligence não esta somente em gráficos mostrados em dashboards, e sim na expertise de mercado e entendimento de modelos organizacionais e administrativos.
 
-* Marketing de Engajamento
+#### A Consultoria empresarial vem neste sentido, dotada de abordagens multisetoriais com soluções sob demanda em:
 
-* Marketing de Retenção
 
-* Marketing de Mídia
-
-* Marketing de Email
-
-* Marketing de internacionalização
-
-* Marketing de Inteligência
-
-* Marketing de Branding
-
-* Marketing de Performance
-
-* Marketing de Social Mídia
-
-* Marketing de Necessidade
-
-* Marketing de Conversão
-
-* Marketing de Compartilhamento
-
-* Marketing de Seo
-
-* Marketing de Acessibilidade
-
-* Marketing de Comportamento
-
-* Marketing de Microserviço
-
-* Marketing de Gamificação
+* Gerenciamento de Api
+* Design programátical
+* User Interface e User Expe
+* Treinamentos
+* Internacionalização
+* Gerenciamento organizacional
+* Search Engine Optimization
+* Performance
+* Apresentação de Palestras
+* Gerencia de Produtos
+* Otimizações
+* Business Intelligence
+* Mercado Mobile
+* Marketing
+* Gestão de Ativo Intelectua
+* Gestão Documental
+* Gateways
+* Desenvolvimento de jogos
+* Escalabilidade de Produtos Digitais
+* Email Corporativo Profissional
+* Desenvolvimento de Software
+* Treinamento Comercial
+* Data Science
+* Gerenciamento de Branding
+* Inteligência Comportamental
+* Automatizações
+* Acessibilidade Digital
