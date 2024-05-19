@@ -8,7 +8,7 @@ categories: jekyll update
 
 #### Tiaplicada parte do princípio de que Marketing Digital de verdade é estratégico, isso fica mais evidente visto as mais de 100 ramificações de campanha possíveis listadas abaixo.
 
-#### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a performance e efetividade, fazendo com que o investimento não seja disperdiçado com um mal direcionamento.
+#### No que tange a consultoria de marketing da Tiaplicada o planejamento fica sob demanda e orientado a alto desempenho e efetividade, fazendo com que o investimento não seja desperdiçado com um direcionamento ruim.
 
 * Marketing de Funil
 
@@ -44,6 +44,6 @@ categories: jekyll update
 
 * Marketing de Comportamento
 
-* Marketing de Microserviço
+* Marketing de Microsserviço
 
 * Marketing de Gamificação

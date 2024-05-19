@@ -6,18 +6,18 @@ categories: jekyll update
 ---
 # Desenvolvimento de Sites
 
-#### O desenvolvimento da tiaplicada apresenta diferencial de foco em performance para isso o uso de ferramentas como :
+#### O desenvolvimento da Tiaplicada apresenta diferencial de foco em desempenho para isso o uso de ferramentas como:
 
 * Análise de requisitos bem feita
-* brienfing e deadline cumpridos a risca 
-* Produção de Design Programatical
+* briefing e data de entrega cumpridos a risca 
+* Produção de Design Programátical
 * Uso de Frameworks Web sob demanda
 
 ###### a seguir uma pequena explicação do que se trata **design programátical**:
 
-##### Design programátical é um design de alta performance onde o foco é a programação e utilização do recurso computacional para criação, geração, padronização e movimento do design.
+##### Design programátical é um design de alto desempenho onde o foco é a programação e utilização do recurso computacional para criação, geração, padronização e movimento do design.
 
-##### Possui alta viabilidade para lidar com responsividades e regras de negócio, ocupa muito menos espaço e e tem maior velocidade de execução.
+##### Possui alta viabilidade para lidar com responsividades e regras de negócio, ocupa muito menos espaço e tem maior velocidade de execução.
 
-##### Jogos usam muito design programátical, contextos ou enredos onde ha um mundo onde o personagem se movimenta, geralmente tem um “ mundo “ sendo renderizado e não desenhado artisticamente em profundidade e técnica manual, em termos práticos, fases, níveis e labirintos infinitos.
+##### Jogos usam muito design programátical, contextos ou enredos onde ha um mundo onde o personagem se movimenta, geralmente tem um " mundo " sendo renderizado e não desenhado artisticamente em profundidade e técnica manual, em termos práticos, fases, níveis e labirintos infinitos.
 

@@ -24,12 +24,12 @@ categories: jekyll update
 * minutos de trabalho mensal 9600
 * Custo por hora de trabalho R$ 21,875
 * Custo minuto de trabalho R$ 0,365
-* Valor destinado a folha de pagamento mensal de 50 colaboradores: R$ 175.000,00
-* Valor destinado a folha de pagamento anual de 50 colaboradores: R$ 2.100.000,00
+* Valor destinado à folha de pagamento mensal de 50 colaboradores: R$ 175.000,00
+* Valor destinado à folha de pagamento anual de 50 colaboradores: R$ 2.100.000,00
 
 #### Implementação de automatização de processos reduz 10 minutos de rotina diária:
 
-## Fórmula: 10 minútos diários X 20 dias de trabalho X 0,365 custo por minúto X 50 colaborares X 12 meses 
+## Fórmula: 10 minutos diários X 20 dias de trabalho X 0,365 custo por minuto X 50 colaborares X 12 meses 
 
 ## Resultado: Economia ou mudança residual: R$ 43.800,00
 

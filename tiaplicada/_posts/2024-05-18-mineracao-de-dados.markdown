@@ -22,7 +22,7 @@ categories: jekyll update
 
 #### Esse recurso provê benefícios antes, durante e depois da vida empresarial, a curto, médio e longo prazo.
 
-#### Abaixo há um case de exemplo cujo código pode ser apreciado pelo link [7 fluxos de data science em um só código](https://github.com/Tinoco/Ticapsoriginal_tags_collector) : 
+#### Abaixo há um case de exemplo cujo código pode ser apreciado pelo link [7 fluxos de data science em um só código](https://github.com/Tinoco/Ticapsoriginal_tags_collector): 
 
 * Organização de dados -> com advertools indexando mapas de sites grandes
 * Rastreamento de dados -> com solicitações e bs4 todos os campos de texto válidos
@@ -30,7 +30,7 @@ categories: jekyll update
 * Processamento de dados -> com biblioteca de processamento de linguagem natural
 * Obtenha resultados -> com tags filtradas mais importantes
 * Mostrar análise -> Mostrar análise de tags do Google Trends
-* Visualização de -> depois de ver o valor
+* Visualização de -> após ver o valor
 
 Resultado:
 
