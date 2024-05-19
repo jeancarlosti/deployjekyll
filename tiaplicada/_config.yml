@@ -18,7 +18,7 @@ email: tiaplicada@tiaplicada.com.br
 description: >- # this means to ignore newlines until "baseurl:"
   Tiaplicada - desde 2026.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tiaplicada.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tiaplicada
 github_username:  Tinoco
 linkedin_username: jeantinocopmo
