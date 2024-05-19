@@ -15,17 +15,21 @@ categories: jekyll update
 #### Se houver 50 colaboradores em 12 meses de trabalho temos ao longo de um ano algo próximo de:
 
 * Quantidade de colaboradores que realizam as mesmas operações 50
-* Salário base: R$ 2000
-* Custo salário com impostos e direitos: R$ 3500
+* Salário base: R$ 2.000,00
+* Custo salário com impostos e direitos: R$ 3.500,00
 * Horas de trabalho por dia: 8
 * Horas de trabalho semanal 40
-* Horas de trabalho mensal 280
-* Custo por hora de trabalho 12,5
-* Valor destinado a folha de pagamento mensal de 50 colaboradores: R$ 175000
-* Valor destinado a folha de pagamento anual de 50 colaboradores: R$ 2100000
+* Horas de trabalho mensal 160
+* Considerar trabalho de 20 dias mensais por colaborador
+* minutos de trabalho mensal 9600
+* Custo por hora de trabalho R$ 21,875
+* Custo minuto de trabalho R$ 0,365
+* Valor destinado a folha de pagamento mensal de 50 colaboradores: R$ 175.000,00
+* Valor destinado a folha de pagamento anual de 50 colaboradores: R$ 2.100.000,00
 
-#### Implementação de automatização de processos reduz 2 horas de rotina:
+#### Implementação de automatização de processos reduz 10 minutos de rotina diária:
 
-## Formula: 2 X 50 X 12,5 X 30 X 12
+## Fórmula: 10 minútos diários X 20 dias de trabalho X 0,365 custo por minúto X 50 colaborares X 12 meses 
 
-## Resultado: Economia ou mudança residual: R$ 450000
+## Resultado: Economia ou mudança residual: R$ 43.800,00
+
