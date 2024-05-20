@@ -13,6 +13,8 @@ categories: jekyll update
 * Produção de Design Programátical
 * Uso de Frameworks Web sob demanda
 
+#### Analisar um stack de desenvolvimento consiste em [ver profundamente o que foi desenvolvido](https://builtwith.com/?https%3a%2f%2ftiaplicada.com.br).
+
 ###### a seguir uma pequena explicação do que se trata **design programátical**:
 
 ##### Design programátical é um design de alto desempenho onde o foco é a programação e utilização do recurso computacional para criação, geração, padronização e movimento do design.
