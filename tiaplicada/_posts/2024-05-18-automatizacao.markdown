@@ -39,4 +39,4 @@ categories: jekyll update
 |**TOTAL**          |**R$ 43.800**|**ECONOMIA**|
 
 
-[Economizando 5 minútos ou mais](https://www.linkedin.com/feed/update/urn:li:activity:7120866678652952576)
+[Economizando 5 minutos ou mais](https://www.linkedin.com/feed/update/urn:li:activity:7120866678652952576)
