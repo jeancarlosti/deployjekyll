@@ -29,7 +29,14 @@ categories: jekyll update
 
 #### Implementação de automatização de processos reduz 10 minutos de rotina diária:
 
-## Fórmula: 10 minutos diários X 20 dias de trabalho X 0,365 custo por minuto X 50 colaborares X 12 meses 
+|       FÓRMULA         |QUANTIDADE                         |VARIAVEL                         |
+|----------------|-------------------------------|-----------------------------|
+| |10            |minutos por dia            |
+|*          |20            |dias de trabalho           |
+|*          |R$ 0,365|valor minuto de trabalho|
+|*          |50|quantidade de trabalhadores|
+|*          |12|meses|
+|**TOTAL**          |**R$ 43.800**|**ECONOMIA**|
 
 ## Resultado: Economia ou mudança residual: R$ 43.800,00
 
