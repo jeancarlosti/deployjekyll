@@ -29,7 +29,7 @@ categories: jekyll update
 
 #### Implementação de automatização de processos reduz 10 minutos de rotina diária:
 
-|       FÓRMULA         |QUANTIDADE                         |VARIAVEL                         |
+|       FÓRMULA         |QUANTIDADE                         |VARIÁVEL                         |
 |----------------|-------------------------------|-----------------------------|
 | |10            |minutos por dia            |
 |*          |20            |dias de trabalho           |
